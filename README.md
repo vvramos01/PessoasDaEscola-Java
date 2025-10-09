@@ -1,3 +1,3 @@
-# Catálogo de Produtos
+# Pessoas da Escola – Exemplo de Herança em Java
 
-Este projeto é uma implementação simples em Java que demonstra os conceitos básicos de Classes e Objetos, através da criação de uma classe Produto e a utilização de objetos dessa classe para gerar um relatório de estoque.
+Este projeto demonstra o uso de herança em Java, com uma superclasse Pessoa e duas subclasses Aluno e Professor. O objetivo é ilustrar o reaproveitamento de código por meio da extensão de classes.
